@@ -1,2 +1,0 @@
-mpicc -o MPI.exe -lm mpiHeat_v3.c
-mpirun -np 2 ./MPI.exe
