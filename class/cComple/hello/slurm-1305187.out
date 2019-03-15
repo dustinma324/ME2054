@@ -1,0 +1,22 @@
+Hello from 0.
+Hello from 1.
+Hello from 2.
+Hello from 3.
+============================================================================
+                               JOB STATISTICS                              
+============================================================================
+      SubmitTime: 2018-08-30T14:39:18
+         EndTime: 2018-08-30T14:49:21
+         RunTime: 00:00:00
+           JobId: 1305187
+            TRES: cpu=4,mem=32008M,node=1
+       Partition: high-mem
+        NodeList: smp-n2
+         Command: /ihome/crc/training/spring2017/MPI-OpenMP_Workshop/code/hello/job.slurm
+          StdOut: /ihome/crc/training/spring2017/MPI-OpenMP_Workshop/code/hello/slurm-1305187.out
+More information:
+    - `sacct -M smp -j 1305187 -S 2018-08-30T14:39:18 -E 2018-08-30T14:49:21`
+   Print control:
+    - List of all possible fields: `sacct --helpformat`
+    - Add `--format=<field1,field2,etc>` with fields of interest
+============================================================================

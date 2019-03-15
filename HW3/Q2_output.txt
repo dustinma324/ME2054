@@ -1,0 +1,30 @@
+Enter 2 of the same number:
+Single Precision: x = 1, e = 2.718282, exp(x) = 2.718282
+Double Precision: x = 1, e = 2.718281828286169, exp(x) = 2.718281828459045
+Enter 2 of the same number:
+Single Precision: x = -1, e = 0.367879, exp(x) = 0.367879
+Double Precision: x = -1, e = 0.367879441194839, exp(x) = 0.367879441171442
+Enter 2 of the same number:
+Single Precision: x = 5, e = 148.413177, exp(x) = 148.413159
+Double Precision: x = 5, e = 148.413159101744924, exp(x) = 148.413159102576600
+Enter 2 of the same number:
+Single Precision: x = -5, e = 0.006738, exp(x) = 0.006738
+Double Precision: x = -5, e = 0.006737946999123, exp(x) = 0.006737946999085
+Enter 2 of the same number:
+Single Precision: x = 10, e = 22026.466797, exp(x) = 22026.465795
+Double Precision: x = 10, e = 22026.465794805790210, exp(x) = 22026.465794806717895
+Enter 2 of the same number:
+Single Precision: x = -10, e = 0.000045, exp(x) = 0.000045
+Double Precision: x = -10, e = 0.000045399929762, exp(x) = 0.000045399929762
+Enter 2 of the same number:
+Single Precision: x = 15, e = 3268994.000000, exp(x) = 3269017.372472
+Double Precision: x = 15, e = 3269017.372472109273076, exp(x) = 3269017.372472110670060
+Enter 2 of the same number:
+Single Precision: x = -15, e = 0.000000, exp(x) = 0.000000
+Double Precision: x = -15, e = 0.000000305902321, exp(x) = 0.000000305902321
+Enter 2 of the same number:
+Single Precision: x = 20, e = 484442848.000000, exp(x) = 485165195.409790
+Double Precision: x = 20, e = 485165195.409790158271790, exp(x) = 485165195.409790277481079
+Enter 2 of the same number:
+Single Precision: x = -20, e = 0.000000, exp(x) = 0.000000
+Double Precision: x = -20, e = 0.000000002061154, exp(x) = 0.000000002061154

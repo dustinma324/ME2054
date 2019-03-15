@@ -1,0 +1,7 @@
+//Building an executable using C
+gcc -o firstCode_optimize -std=c99 -O3 firstCode.c
+//-o gives custum output file
+//-std=c99 is that standard compiler
+//-O3 sets optimization level, 3 is the most aggressive
+
+

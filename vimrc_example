@@ -1,0 +1,2 @@
+map <C-K> :pyf  /ihome/crc/build/clang/llvm-5.0.0.src/tools/clang/tools/clang-format/clang-format.py<cr>
+imap <C-K> <c-o>:pyf /ihome/crc/build/clang/llvm-5.0.0.src/tools/clang/tools/clang-format/clang-format.py<cr>

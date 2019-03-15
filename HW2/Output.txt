@@ -1,0 +1,24 @@
+Please enter (1)Reynolds Number and (2)Pressure Gradient:
+You've chosen Re = 1.0 and P.G. = 2.0
+Below shows the exact and numerical calculation for a couette flow.
+You chose Re = 1.00, and PG = 2.0
+Exact = 0.00000, Numerical = 0.00000
+Exact = 0.45152, Numerical = 0.45152
+Exact = 0.85873, Numerical = 0.85873
+Exact = 1.22161, Numerical = 1.22161
+Exact = 1.54017, Numerical = 1.54016
+Exact = 1.81440, Numerical = 1.81440
+Exact = 2.04432, Numerical = 2.04432
+Exact = 2.22992, Numerical = 2.22992
+Exact = 2.37119, Numerical = 2.37119
+Exact = 2.46814, Numerical = 2.46814
+Exact = 2.52078, Numerical = 2.52077
+Exact = 2.52909, Numerical = 2.52908
+Exact = 2.49307, Numerical = 2.49307
+Exact = 2.41274, Numerical = 2.41274
+Exact = 2.28809, Numerical = 2.28809
+Exact = 2.11911, Numerical = 2.11911
+Exact = 1.90582, Numerical = 1.90582
+Exact = 1.64820, Numerical = 1.64820
+Exact = 1.34626, Numerical = 1.34626
+Exact = 1.00000, Numerical = 1.00000

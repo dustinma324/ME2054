@@ -1,0 +1,14 @@
+top - 16:35:02 up 101 days, 13 min, 59 users,  load average: 0.06, 0.26, 0.32
+Tasks: 491 total,   1 running, 489 sleeping,   1 stopped,   0 zombie
+%Cpu(s):  0.5 us,  0.5 sy,  0.0 ni, 99.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 13173921+total,  2482736 free,  1489276 used, 12776720+buff/cache
+KiB Swap:  8187900 total,  7821744 free,   366156 used. 12937677+avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+17784 tim48     20   0  168304   2420   1132 S   0.0  0.0   0:00.25 sshd
+17785 tim48     20   0  125824   2344   1748 S   0.0  0.0   0:00.08 bash
+17831 tim48     20   0  168304   2408   1096 S   0.0  0.0   0:00.00 sshd
+17832 tim48     20   0   67716   2200   1612 S   0.0  0.0   0:00.00 sftp-server
+18226 tim48     20   0  168304   2436   1120 S   0.0  0.0   0:00.15 sshd
+18227 tim48     20   0  125896   2352   1748 S   0.0  0.0   0:00.09 bash
+20891 tim48     20   0  168280   2760   1780 R   0.0  0.0   0:00.00 top

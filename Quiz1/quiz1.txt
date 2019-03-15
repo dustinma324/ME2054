@@ -1,0 +1,22 @@
+Dear ME 2054 Student,
+
+If you are reading this message, it means you know how to copy a file to 
+a remote machine securely and extract a compressed tarball. Congratulations!
+But there is more to do to finish this quiz! 
+
+I want you to use a Linux command to view all the processes currently 
+running on the H2P cluster at CRC. Give it a try. There should be so many processes.
+Some don't belong to you.
+
+Now use a SINGLE line of commands to extract all the processes that contain your 
+username and append it to file "result.txt" that came with the tarball.
+Do NOT lose the existing contents in result.txt
+
+Once you achieve the above task. Type the command that you used to achieve the 
+above task at the end of the result.txt file.
+
+Rename result.txt as yourLastName_quiz1.txt and upload it to your Box directory for the class
+
+
+
+

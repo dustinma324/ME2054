@@ -1,0 +1,26 @@
+Do not delete or overwrite the following lines.
+
+"Once you start thinking more about where you want to be than about
+ making the best product, you're screwed." --Linus Torvalds
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[?1h=[?25l[H[2J(B[mtop - 16:25:30 up 101 days, 3 min, 59 users,  load average: 0.15, 0.35, 0.38(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 497 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 495 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.5 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.5 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem :(B[m[39;49m[1m 13173921+(B[m[39;49mtotal,(B[m[39;49m[1m  4312316 (B[m[39;49mfree,(B[m[39;49m[1m  1494124 (B[m[39;49mused,(B[m[39;49m[1m 12593277+(B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  8187900 (B[m[39;49mtotal,(B[m[39;49m[1m  7821744 (B[m[39;49mfree,(B[m[39;49m[1m   366156 (B[m[39;49mused.(B[m[39;49m[1m 12937168+(B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND                                          (B[m[39;49m[K
+(B[m17784 tim48     20   0  168304   2420   1132 S   0.0  0.0   0:00.17 sshd                                             (B[m[39;49m[K
+(B[m17785 tim48     20   0  125824   2340   1744 S   0.0  0.0   0:00.06 bash                                             (B[m[39;49m[K
+(B[m17831 tim48     20   0  168304   2408   1096 S   0.0  0.0   0:00.00 sshd                                             (B[m[39;49m[K
+(B[m17832 tim48     20   0   67716   2200   1612 S   0.0  0.0   0:00.00 sftp-server                                      (B[m[39;49m[K
+(B[m18226 tim48     20   0  168304   2436   1120 S   0.0  0.0   0:00.15 sshd                                             (B[m[39;49m[K
+(B[m18227 tim48     20   0  125896   2352   1748 S   0.0  0.0   0:00.09 bash                                             (B[m[39;49m[K
+(B[m[1m20371 tim48     20   0  168428   2900   1792 R   0.0  0.0   0:00.00 top                                              (B[m[39;49m[K
+[J[?1l>[63;1H
+[?12l[?25h[K
+
+
+top -n 1 -u tim48 >> results.txt

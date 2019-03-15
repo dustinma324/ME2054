@@ -1,0 +1,3 @@
+crc-interactive.py -g -t 1 -n 1 -p gtx1080 -c 1
+crc-interactive.py --help
+https://crc.pitt.edu/h2p

@@ -1,0 +1,26 @@
+13c13
+< gettimeofday(&timerStart, NULL);
+---
+> fetchtimeofday(&timerStart, NULL);
+/*								/*
+ * * this file has been edited to practice Linux commands	 * * this file has been edited to practice Linux commands
+ * * Do NOT use in any code.					 * * Do NOT use in any code.
+ * * Inanc Senocak 09/07/2018					 * * Inanc Senocak 09/07/2018
+ * *								 * *
+ * */								 * */
+#ifndef TIMER_H							#ifndef TIMER_H
+#define TIMER_H							#define TIMER_H
+#include <sys/time.h>						#include <sys/time.h>
+struct timeval timerStart;					struct timeval timerStart;
+void StartTimer()						void StartTimer()
+{								{
+gettimeofday(&timerStart, NULL);			      |	fetchtimeofday(&timerStart, NULL);
+}								}
+// time elapsed in s						// time elapsed in s
+double GetTimer()						double GetTimer()
+{								{
+struct timeval timerStop, timerElapsed;				struct timeval timerStop, timerElapsed;
+gettimeofday(&timerStop, NULL);					gettimeofday(&timerStop, NULL);
+return ( (timerStop.tv_sec-timerStart.tv_sec) + (timerStop.tv	return ( (timerStop.tv_sec-timerStart.tv_sec) + (timerStop.tv
+}								}
+#endif // TIMER_H						#endif // TIMER_H

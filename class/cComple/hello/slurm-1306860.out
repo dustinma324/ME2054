@@ -1,0 +1,22 @@
+Hello from 0.
+Hello from 1.
+Hello from 2.
+Hello from 3.
+============================================================================
+                               JOB STATISTICS                              
+============================================================================
+      SubmitTime: 2018-08-31T16:47:14
+         EndTime: 2018-08-31T16:57:17
+         RunTime: 00:00:01
+           JobId: 1306860
+            TRES: cpu=4,mem=32008M,node=1
+       Partition: high-mem
+        NodeList: smp-n0
+         Command: /ihome/isenocak/tim48/hello/job.slurm
+          StdOut: /ihome/isenocak/tim48/hello/slurm-1306860.out
+More information:
+    - `sacct -M smp -j 1306860 -S 2018-08-31T16:47:14 -E 2018-08-31T16:57:17`
+   Print control:
+    - List of all possible fields: `sacct --helpformat`
+    - Add `--format=<field1,field2,etc>` with fields of interest
+============================================================================
